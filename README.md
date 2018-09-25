@@ -1,3 +1,7 @@
+# Overview
+
+This is created from fabric-ca in fabric 1.2 samples. It adds coucbdb for each peer, ports mapping to host and data persistent in host disk.
+
 # Hyperledger Fabric CA sample
 
 The Hyperledger Fabric CA sample demonstrates the following:
